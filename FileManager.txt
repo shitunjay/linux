@@ -1,0 +1,94 @@
+TestDir Directory created Wednesday 02 March 2022 11:32:21 PM IST
+TestDir2 Directory created Wednesday 02 March 2022 11:32:57 PM IST
+TestDir2 Directory created Wednesday 02 March 2022 11:39:29 PM IST
+TestDir2 Directory created Wednesday 02 March 2022 11:40:05 PM IST
+TestDir2 Directory created Wednesday 02 March 2022 11:40:19 PM IST
+TestDir2 Directory created Wednesday 02 March 2022 11:42:21 PM IST
+TestDir2 already exists, choose a different name Wednesday 02 March 2022 11:45:08 PM IST
+TestDir2 Directory removed Wednesday 02 March 2022 11:49:26 PM IST
+TestDir2 does not exist, create directory first Wednesday 02 March 2022 11:51:17 PM IST
+Files for /home/shitunjay/Desktop listed Wednesday 02 March 2022 11:53:35 PM IST
+Non-exixtent directory, create directory first Wednesday 02 March 2022 11:54:03 PM IST
+Non-existent directory, create directory first Wednesday 02 March 2022 11:54:13 PM IST
+directories for /home/shitunjay/Desktop listed Wednesday 02 March 2022 11:54:58 PM IST
+Non-existent directory, create directory first Wednesday 02 March 2022 11:55:34 PM IST
+all files and directories for  listed Wednesday 02 March 2022 11:56:13 PM IST
+Non-exixtent directory, create directory first Wednesday 02 March 2022 11:56:22 PM IST
+Non-existent directory, create directory first Wednesday 02 March 2022 11:56:32 PM IST
+all files and directories for  listed Wednesday 02 March 2022 11:57:01 PM IST
+/home/shitunjay/Des Does not exist, create directory first Thursday 03 March 2022 12:04:58 AM IST
+/home/shitunjay/Des Does not exist, create directory first Thursday 03 March 2022 12:05:42 AM IST
+Apex created Thursday 03 March 2022 12:05:54 AM IST
+Directory with samename exists, choose a different filename Thursday 03 March 2022 12:06:40 AM IST
+Apex already exists, choose a different filename Thursday 03 March 2022 12:06:59 AM IST
+Apex Predator added to Apex
+Ap does not exist, create a file first Thursday 03 March 2022 12:12:26 AM IST
+/home/shitunjay/Desk does not exist, create directory first Thursday 03 March 2022 12:12:43 AM IST
+Hello added to Apex Thursday 03 March 2022 12:14:22 AM IST
+Hello added to Apex Thursday 03 March 2022 12:15:56 AM IST
+Hello added to Apex Thursday 03 March 2022 12:24:52 AM IST
+Hello added to Apex Thursday 03 March 2022 12:25:14 AM IST
+Hello added to Apex Thursday 03 March 2022 12:27:16 AM IST
+Hello added to Apex Thursday 03 March 2022 12:27:27 AM IST
+Hello added to Apex Thursday 03 March 2022 12:28:47 AM IST
+Hello added to Apex Thursday 03 March 2022 12:29:37 AM IST
+Ape does not exist, create a file first Thursday 03 March 2022 12:36:22 AM IST
+/home/shitunjay/Desktp does not exist, create directory first Thursday 03 March 2022 12:36:40 AM IST
+/home/shitunjay/Desktp does not exist, create directory first Thursday 03 March 2022 12:36:48 AM IST
+TestDir Directory created Thursday 17 March 2022 12:47:14 PM IST
+TestDir Directory created Thursday 17 March 2022 12:47:30 PM IST
+TestDir already exists, choose a different name Thursday 17 March 2022 12:47:37 PM IST
+TestDir Directory removed Thursday 17 March 2022 12:48:03 PM IST
+TestDir does not exist, create directory first Thursday 17 March 2022 12:48:12 PM IST
+Non-existent directory, create directory first Thursday 17 March 2022 12:48:38 PM IST
+Files for /home/shitunjay/Desktop listed Thursday 17 March 2022 12:48:46 PM IST
+Non-existent directory, create directory first Thursday 17 March 2022 12:49:10 PM IST
+directories for /home/shitunjay/Desktop listed Thursday 17 March 2022 12:49:18 PM IST
+all files and directories for  listed Thursday 17 March 2022 12:49:41 PM IST
+Apex already exists, choose a different filename Thursday 17 March 2022 12:51:10 PM IST
+Apex already exists, choose a different filename Thursday 17 March 2022 12:51:46 PM IST
+Apex already exists, choose a different filename Thursday 17 March 2022 12:52:04 PM IST
+Apexx created Thursday 17 March 2022 12:52:15 PM IST
+/home/shitunjay/Desk does not exist, create directory first Thursday 17 March 2022 12:52:48 PM IST
+Apex Predator added to Apexx Thursday 17 March 2022 12:52:58 PM IST
+Hello added to Apexx Thursday 17 March 2022 12:53:53 PM IST
+all files and directories for  listed Thursday 17 March 2022 01:12:34 PM IST
+all files and directories for  listed Thursday 17 March 2022 01:13:00 PM IST
+Non-existent directory, create directory first Thursday 17 March 2022 01:13:00 PM IST
+all files and directories for  listed Thursday 17 March 2022 01:13:06 PM IST
+Non-existent directory, create directory first Thursday 17 March 2022 01:13:06 PM IST
+all files and directories for  listed Thursday 17 March 2022 01:13:12 PM IST
+all files and directories for  listed Thursday 17 March 2022 01:13:12 PM IST
+all files and directories for  listed Thursday 17 March 2022 01:13:36 PM IST
+all files and directories for  listed Thursday 17 March 2022 01:13:36 PM IST
+all files and directories for  listed Thursday 17 March 2022 01:13:49 PM IST
+all files and directories for  listed Thursday 17 March 2022 01:14:24 PM IST
+all files and directories for /home/shitunjay/Desktop listed Thursday 17 March 2022 01:14:36 PM IST
+all files and directories for /home/shitunjay/Desktop listed Thursday 17 March 2022 01:14:58 PM IST
+Dir Directory created Thursday 17 March 2022 01:21:20 PM IST
+Dir already exists, choose a different name Thursday 17 March 2022 01:21:26 PM IST
+Dir Directory removed Thursday 17 March 2022 01:21:38 PM IST
+Files for /home/shitunjay/Desktop listed Thursday 17 March 2022 01:22:40 PM IST
+directories for /home/shitunjay/Desktop listed Thursday 17 March 2022 01:22:57 PM IST
+all files and directories for /home/shitunjay/Desktop listed Thursday 17 March 2022 01:23:10 PM IST
+all files and directories for / listed Thursday 17 March 2022 01:25:21 PM IST
+Non-existent directory, create directory first Thursday 17 March 2022 02:03:00 PM IST
+File content removed from Apex Friday 18 March 2022 09:29:35 PM IST
+File does not exist, create file first Friday 18 March 2022 09:47:02 PM IST
+File Deleted Friday 18 March 2022 09:47:24 PM IST
+File content for 2-5 shown Friday 18 March 2022 10:42:03 PM IST
+File content for 2-5 shown Friday 18 March 2022 10:42:29 PM IST
+File content for 2-5 shown Friday 18 March 2022 10:43:39 PM IST
+File content for apex at line 2 shown Friday 18 March 2022 10:44:17 PM IST
+File content for apex at line 5 shown Friday 18 March 2022 10:44:21 PM IST
+File content for apex at line 10 shown Friday 18 March 2022 10:44:24 PM IST
+File content for 2-5 shown Friday 18 March 2022 10:45:23 PM IST
+File content for 2-5 shown Friday 18 March 2022 10:45:41 PM IST
+File content for line range 2-5 shown Friday 18 March 2022 10:46:36 PM IST
+File content for line range 2-5 shown Friday 18 March 2022 10:52:16 PM IST
+Ninja Directory created Saturday 19 March 2022 08:49:06 AM IST
+Ninja already exists, choose a different name Saturday 19 March 2022 08:50:38 AM IST
+Ninja Directory created Saturday 19 March 2022 08:52:08 AM IST
+File does not exist, create file first Saturday 19 March 2022 12:22:30 PM IST
+File /home/shitunjay/Desktop/apex copied Saturday 19 March 2022 12:22:48 PM IST
+File /home/shitunjay/Desktop/apex moved Saturday 19 March 2022 12:23:00 PM IST
